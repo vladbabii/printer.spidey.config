@@ -1,2 +1,1 @@
-# printer.spidey.config
-Printer Spidey - Config
+# Printer Spidey - Config
